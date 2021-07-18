@@ -1,5 +1,7 @@
 # Image Manipulation
 
+Demo Video: https://youtu.be/IBesFJEWvG8
+
 This is an image manipulation program that takes an image you upload and gives you options to apply filters to the photo.
 
 In order to run this program you will need to import OpenCV and Numpy. Whne you open the file, the import statements at the top of the file will have red lines under them. Click that and it will allow you to import the libraries. When you hover over cv2, make sure to download OpenCV-Python. This program is designed to be run in CLion, so you will also need to configure a python interpreter for the project.
